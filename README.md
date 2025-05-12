@@ -10,8 +10,6 @@ An advanced ATM robbery script for FiveM servers, primarily designed for QBCore 
 
 [![Watch the video](https://via.placeholder.com/1280x720.png?text=Click+to+Watch+Preview+Video)](https://www.youtube.com/watch?v=YOUR_PREVIEW_VIDEO_ID_HERE)
 
-*(Replace the placeholder image and link above with your actual preview video.)*
-
 ### Features
 
 *   Target-based ATM interaction.
@@ -85,8 +83,6 @@ An advanced ATM robbery script for FiveM servers, primarily designed for QBCore 
 ### Önizleme
 
 [![Videoyu İzle](https://via.placeholder.com/1280x720.png?text=Önizleme+Videosunu+İzlemek+İçin+Tıkla)](https://www.youtube.com/watch?v=YOUR_PREVIEW_VIDEO_ID_HERE)
-
-*(Yukarıdaki yer tutucu görseli ve bağlantıyı kendi önizleme videonuzla değiştirin.)*
 
 ### Özellikler
 
